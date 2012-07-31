@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2182/trunk/fl5/src/com/longtailvideo/jwplayer/controller
+END
+PlayerSetup.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2182/trunk/fl5/src/com/longtailvideo/jwplayer/controller/PlayerSetup.as
+END
+MediaProviderLoader.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/745/trunk/fl5/src/com/longtailvideo/jwplayer/controller/MediaProviderLoader.as
+END
+Controller.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2182/trunk/fl5/src/com/longtailvideo/jwplayer/controller/Controller.as
+END
+LockManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/599/trunk/fl5/src/com/longtailvideo/jwplayer/controller/LockManager.as
+END
+PluginLoader.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1947/trunk/fl5/src/com/longtailvideo/jwplayer/controller/PluginLoader.as
+END
+TaskQueue.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/836/trunk/fl5/src/com/longtailvideo/jwplayer/controller/TaskQueue.as
+END
+RepeatOptions.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/541/trunk/fl5/src/com/longtailvideo/jwplayer/controller/RepeatOptions.as
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2280/trunk/fl5/src/com/longtailvideo/jwplayer/view/components
+END
+ComponentButton.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1434/trunk/fl5/src/com/longtailvideo/jwplayer/view/components/ComponentButton.as
+END
+ControlbarLayoutManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2161/trunk/fl5/src/com/longtailvideo/jwplayer/view/components/ControlbarLayoutManager.as
+END
+ControlbarComponentV4.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2280/trunk/fl5/src/com/longtailvideo/jwplayer/view/components/ControlbarComponentV4.as
+END
+Slider.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1790/trunk/fl5/src/com/longtailvideo/jwplayer/view/components/Slider.as
+END
+DockComponent.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1847/trunk/fl5/src/com/longtailvideo/jwplayer/view/components/DockComponent.as
+END
+PlaylistComponent.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1885/trunk/fl5/src/com/longtailvideo/jwplayer/view/components/PlaylistComponent.as
+END
+ControlbarComponent.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2161/trunk/fl5/src/com/longtailvideo/jwplayer/view/components/ControlbarComponent.as
+END
+DisplayComponent.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2093/trunk/fl5/src/com/longtailvideo/jwplayer/view/components/DisplayComponent.as
+END
+DockJSButton.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1737/trunk/fl5/src/com/longtailvideo/jwplayer/view/components/DockJSButton.as
+END
+CoreComponent.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2049/trunk/fl5/src/com/longtailvideo/jwplayer/view/components/CoreComponent.as
+END
+DockButton.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/961/trunk/fl5/src/com/longtailvideo/jwplayer/view/components/DockButton.as
+END
