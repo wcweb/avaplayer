@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1981/trunk/fl5/js/test/examples/plugins
+END
+hd-relative.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1617/trunk/fl5/js/test/examples/plugins/hd-relative.js
+END
+hd-absolute.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1617/trunk/fl5/js/test/examples/plugins/hd-absolute.js
+END
+invalidtextplugin.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1629/trunk/fl5/js/test/examples/plugins/invalidtextplugin.js
+END
+hd-1.swf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1537/trunk/fl5/js/test/examples/plugins/hd-1.swf
+END
+hd-root.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1617/trunk/fl5/js/test/examples/plugins/hd-root.js
+END
+hd-cdn.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1629/trunk/fl5/js/test/examples/plugins/hd-cdn.js
+END
+hd.swf
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1537/trunk/fl5/js/test/examples/plugins/hd.swf
+END
+dockplugin.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1839/trunk/fl5/js/test/examples/plugins/dockplugin.js
+END
+hd-bad.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1617/trunk/fl5/js/test/examples/plugins/hd-bad.js
+END
+resizeplugin.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1981/trunk/fl5/js/test/examples/plugins/resizeplugin.js
+END
+textplugin.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1629/trunk/fl5/js/test/examples/plugins/textplugin.js
+END

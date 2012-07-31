@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2290/trunk/fl5/build
+END
+skin-builder.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1970/trunk/fl5/build/skin-builder.py
+END
+yuicompressor-2.4.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1413/trunk/fl5/build/yuicompressor-2.4.2.jar
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2290/trunk/fl5/build/build.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2049/trunk/fl5/build/build.xml
+END

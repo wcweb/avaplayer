@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2295/trunk/fl5/src/com/longtailvideo/jwplayer/player
+END
+PlayerState.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/380/trunk/fl5/src/com/longtailvideo/jwplayer/player/PlayerState.as
+END
+InstreamPlayer.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2049/trunk/fl5/src/com/longtailvideo/jwplayer/player/InstreamPlayer.as
+END
+JavascriptAPI.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2280/trunk/fl5/src/com/longtailvideo/jwplayer/player/JavascriptAPI.as
+END
+PlayerVersion.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2295/trunk/fl5/src/com/longtailvideo/jwplayer/player/PlayerVersion.as
+END
+JavascriptInstreamAPI.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2049/trunk/fl5/src/com/longtailvideo/jwplayer/player/JavascriptInstreamAPI.as
+END
+PlayerV4Emulation.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2146/trunk/fl5/src/com/longtailvideo/jwplayer/player/PlayerV4Emulation.as
+END
+IPlayer.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2049/trunk/fl5/src/com/longtailvideo/jwplayer/player/IPlayer.as
+END
+IInstreamPlayer.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2049/trunk/fl5/src/com/longtailvideo/jwplayer/player/IInstreamPlayer.as
+END
+JavascriptCompatibilityAPI.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1282/trunk/fl5/src/com/longtailvideo/jwplayer/player/JavascriptCompatibilityAPI.as
+END
+Player.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2049/trunk/fl5/src/com/longtailvideo/jwplayer/player/Player.as
+END
