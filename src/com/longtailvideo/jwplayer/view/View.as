@@ -71,7 +71,7 @@ package com.longtailvideo.jwplayer.view {
 		protected var _instreamAnim : Animations;
 		protected var _displayMasker : MovieClip;
 		protected var _image : Loader;
-		// protected var _logo : Logo;
+		protected var _logo : Logo;
 		protected var layoutManager : PlayerLayoutManager;
 		[Embed(source="../../../../../assets/flash/loader/loader.swf")]
 		protected var LoadingScreen : Class;
@@ -263,7 +263,7 @@ package com.longtailvideo.jwplayer.view {
 			imageDelay.addEventListener(TimerEvent.TIMER_COMPLETE, showImage);
 			mediaDelay.addEventListener(TimerEvent.TIMER_COMPLETE, showMedia);
 
-			// setupLogo();
+			setupLogo();
 
 			_componentsLayer = setupLayer("components", currentLayer++);
 
@@ -278,7 +278,7 @@ package com.longtailvideo.jwplayer.view {
 		}
 
 		protected function setupLogo() : void {
-			// _logo = new Logo(_player);
+			_logo = new Logo(_player);
 		}
 
 		protected function setupLayer(name : String, index : Number, parent : DisplayObjectContainer = null) : MovieClip {
@@ -323,7 +323,7 @@ package com.longtailvideo.jwplayer.view {
 
 			setupComponent(_components.display, n++);
 			setupComponent(_components.playlist, n++);
-			// setupComponent(_logo, n++);
+			setupComponent(_logo, n++);
 			setupComponent(_components.controlbar, n++);
 			setupComponent(_components.dock, n++);
 		}
@@ -384,11 +384,11 @@ package com.longtailvideo.jwplayer.view {
 			resizeImage(_player.config.width, _player.config.height);
 			resizeMedia(_player.config.width, _player.config.height);
 
-			// if (_logo) {
-			// _logo.x = _components.display.x;
-			// _logo.y = _components.display.y;
-			// _logo.resize(_player.config.width, _player.config.height);
-			// }
+			if (_logo) {
+			 _logo.x = _components.display.x;
+			 _logo.y = _components.display.y;
+			 _logo.resize(_player.config.width, _player.config.height);
+			 }
 
 			for (var i : Number = 0; i < _pluginsLayer.numChildren; i++) {
 				var plug : IPlugin = _pluginsLayer.getChildAt(i) as IPlugin;

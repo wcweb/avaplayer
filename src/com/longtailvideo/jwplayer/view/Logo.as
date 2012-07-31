@@ -1,4 +1,5 @@
 package com.longtailvideo.jwplayer.view {
+	import flash.geom.Rectangle;
 	import com.longtailvideo.jwplayer.events.PlayerStateEvent;
 	import com.longtailvideo.jwplayer.player.IPlayer;
 	import com.longtailvideo.jwplayer.player.PlayerState;
@@ -25,7 +26,7 @@ package com.longtailvideo.jwplayer.view {
 
 	public class Logo extends MovieClip {
 		/** Configuration defaults **/
-		protected var defaults : Object = {prefix:"http://l.longtailvideo.com/", file:"logo.png", link:"http://www.longtailvideo.com/players/jw-flv-player/", linktarget:"_top", margin:8, out:0.5, over:1, timeout:5, hide:"true", position:"bottom-left"}
+		protected var defaults : Object = {prefix:"http://www.ava.com.cn/", file:"images/logo.png", link:"http://www.ava.com.cn", linktarget:"_top", margin:8, out:0.5, over:1, timeout:5, hide:"true", position:"top-left"}
 		/** Reference to the player **/
 		protected var _player : IPlayer;
 		/** Reference to the current fade timer **/
@@ -81,7 +82,8 @@ package com.longtailvideo.jwplayer.view {
 					}
 				} catch(e : Error) {
 				}
-				defaults['file'] = prefix + versionInfo[1] + "/" + versionInfo[2] + "/" + getConfigParam('file');
+				//defaults['file'] = prefix + versionInfo[1] + "/" + versionInfo[2] + "/" + getConfigParam('file');
+				defaults['file'] = prefix + "/" + getConfigParam('file');
 			}
 
 			if (getConfigParam('file') && RootReference.root.loaderInfo.url.indexOf("http") == 0) {
@@ -187,6 +189,7 @@ package com.longtailvideo.jwplayer.view {
 				} else {
 					image.y = margin;
 				}
+				image.scaleX = image.scaleY= 0.4;
 			}
 		}
 

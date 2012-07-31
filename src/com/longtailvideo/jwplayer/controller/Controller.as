@@ -274,9 +274,9 @@ package com.longtailvideo.jwplayer.controller {
 			}
 		}
 
-		// // // //////////////
+		// // // // // //////////
 		// Public methods //
-		// // // //////////////
+		// // // // // //////////
 		public function get locking() : Boolean {
 			return _lockManager.locked();
 		}

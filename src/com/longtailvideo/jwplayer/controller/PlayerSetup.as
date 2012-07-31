@@ -94,9 +94,9 @@ package com.longtailvideo.jwplayer.controller {
 			dispatchEvent(new ErrorEvent(ErrorEvent.ERROR, false, false, message));
 		}
 
-		// // // /////////////////
+		// // // // // /////////////
 		// Tasks
-		// // // /////////////////
+		// // // // // /////////////
 		protected function loadConfig() : void {
 			var configger : Configger = new Configger();
 			configger.addEventListener(Event.COMPLETE, tasker.success);

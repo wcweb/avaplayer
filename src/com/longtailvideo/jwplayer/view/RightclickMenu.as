@@ -56,9 +56,10 @@ package com.longtailvideo.jwplayer.view {
 				addItem(fullscreen, fullscreenHandler);
 			} catch (err : Error) {
 			}
-			stretching = new ContextMenuItem('Stretching is ' + _player.config.stretching + '...');
-			addItem(stretching, stretchHandler);
+
 			if (Capabilities.isDebugger == true || _player.config.debug != Logger.NONE) {
+				stretching = new ContextMenuItem('Stretching is ' + _player.config.stretching + '...');
+				addItem(stretching, stretchHandler);
 				debug = new ContextMenuItem('Logging to ' + _player.config.debug + '...');
 				addItem(debug, debugHandler);
 			}

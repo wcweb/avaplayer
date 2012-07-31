@@ -94,9 +94,9 @@ package com.longtailvideo.jwplayer.view.components {
 			player.config.pluginConfig(_name)[param] = value;
 		}
 
-		// // // /////////////////////////////////////
+		// // // // // /////////////////////////////////
 		// Font style related helper getters
-		// // // /////////////////////////////////////
+		// // // // // /////////////////////////////////
 		protected function get backgroundColor() : Color {
 			return getConfigParam("backgroundcolor") ? new Color(String(getConfigParam("backgroundcolor"))) : null;
 		}
@@ -134,9 +134,9 @@ package com.longtailvideo.jwplayer.view.components {
 			}
 		}
 
-		// // // /////////////////////////////////////
+		// // // // // /////////////////////////////////
 		// / IGlobalEventDispatcher implementation
-		// // // /////////////////////////////////////
+		// // // // // /////////////////////////////////
 		/**
 		 * @inheritDoc
 		 */
