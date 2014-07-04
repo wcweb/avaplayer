@@ -60,24 +60,24 @@
 		}
 		
 		function _setupDisplayElements() {
-			_logo = document.createElement("img");
-			_logo.id = id + "_jwplayer_logo";
-			_logo.style.display = "none";
-			
-			_logo.onload = function(evt) {
-				_css(_logo, _getStyle());
-				_outHandler();
-			};
-			
-			if (!_settings.file) {
-				return;
-			}
-			
-			if (_settings.file.indexOf("http://") === 0) {
-				_logo.src = _settings.file;
-			} else {
-				_logo.src = _settings.prefix + _settings.file;
-			}
+//			_logo = document.createElement("img");
+//			_logo.id = id + "_jwplayer_logo";
+//			_logo.style.display = "none";
+//			
+//			_logo.onload = function(evt) {
+//				_css(_logo, _getStyle());
+//				_outHandler();
+//			};
+//			
+//			if (!_settings.file) {
+//				return;
+//			}
+//			
+//			if (_settings.file.indexOf("http://") === 0) {
+//				_logo.src = _settings.file;
+//			} else {
+//				_logo.src = _settings.prefix + _settings.file;
+//			}
 		}
 		
 		if (!_settings.file) {

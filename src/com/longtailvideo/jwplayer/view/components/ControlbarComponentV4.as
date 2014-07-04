@@ -589,7 +589,7 @@ package com.longtailvideo.jwplayer.view.components {
 			}
 		}
 
-		private function getSkinComponent(element : String) : DisplayObject {
+		public function getSkinComponent(element : String) : DisplayObject {
 			var component : DisplayObject = skin.getChildByName(element) as DisplayObject;
 			if (component) {
 				return component;

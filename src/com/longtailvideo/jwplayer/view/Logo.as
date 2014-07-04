@@ -25,7 +25,10 @@ package com.longtailvideo.jwplayer.view {
 
 	public class Logo extends MovieClip {
 		/** Configuration defaults **/
-		protected var defaults : Object = {prefix:"http://l.longtailvideo.com/", file:"logo.png", link:"http://www.longtailvideo.com/players/jw-flv-player/", linktarget:"_top", margin:8, out:0.5, over:1, timeout:5, hide:"true", position:"bottom-left"}
+//		protected var defaults : Object = {prefix:"http://l.longtailvideo.com/", file:"logo.png", link:"http://www.longtailvideo.com/players/jw-flv-player/", linktarget:"_top", margin:8, out:0.5, over:1, timeout:5, hide:"true", position:"bottom-left"}
+		protected var defaults : Object = {prefix:"", file:"", link:"", linktarget:"_top", margin:8, out:0.5, over:1, timeout:5, hide:"true", position:"bottom-left"}
+		
+		
 		/** Reference to the player **/
 		protected var _player : IPlayer;
 		/** Reference to the current fade timer **/
